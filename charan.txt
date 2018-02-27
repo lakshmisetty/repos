@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hi this is gitidwshwhsfwhfuwhfuhhfi3ujdfhsckckjkaskjkjkjkknlwdkjbkkk
+=======
+hi this is git god must be crazy
+>>>>>>> Stashed changes
 =======
 hi this is git god must be crazy
 >>>>>>> Stashed changes
